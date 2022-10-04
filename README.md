@@ -22,7 +22,7 @@ yrangeでy方向のプロット範囲を指定。
 
 
 
-### plotter.range_hist2d(xrange=[x下限, x上限], yrange=[y下限, y上限], xybins=[x方向の分割数,y方向の分割数], logscale=True)
+### plotter.range_hist2d(xrange=[x下限, x上限], yrange=[y下限, y上限], xybins=[x方向の分割数, y方向の分割数], logscale=True)
 
 二次元ヒストグラムのプロット。
 
